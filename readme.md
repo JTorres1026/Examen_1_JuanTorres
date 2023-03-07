@@ -41,3 +41,10 @@ Comandos utilizados en el ejercicio
 
 16. Se agregó un fondo color negro al html (background-color con CSS)
 
+17. subiendo cambios a stage
+
+git add readme.md 
+
+git add index.html
+
+git commit -m "Cambio del fondo"
