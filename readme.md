@@ -14,3 +14,13 @@ Comandos utilizados en el ejercicio
 
 7. git commit -m "Primer Parcial" (hacer commit incial)
 
+8. se creó el fichero privado.txt y la carpeta privada
+
+9. Se realizaron cambios en los archivos creados
+
+10. Se agregó el archivo index.html al repositorio
+
+11. Se creó la estructura básica de html dentro del archivo index.html (tipo de documento,head, body,entre otros )
+
+12. Se realizaron cambios en el titulo del documento (tittle) y se agrego un parrafo en el body (p)
+
