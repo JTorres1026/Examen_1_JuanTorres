@@ -49,6 +49,10 @@ git add index.html
 
 git commit -m "Cambio del fondo"
 
+git branch -M HotFixParcial
+
+git push -u origin HotFixParcial (Crear nueva rama y subir los cambios)
+
 18. logs en una sola linea de los commits realizados 
 
 git log --oneline
