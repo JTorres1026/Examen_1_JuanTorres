@@ -18,9 +18,26 @@ Comandos utilizados en el ejercicio
 
 9. Se realizaron cambios en los archivos creados
 
-10. Se agregó el archivo index.html al repositorio
+10. se creó el archivo .gitignore para ignorar los dos archivos creados (privado.txt y privada)
 
-11. Se creó la estructura básica de html dentro del archivo index.html (tipo de documento,head, body,entre otros )
+11. Se agregó el archivo index.html al repositorio
 
-12. Se realizaron cambios en el titulo del documento (tittle) y se agrego un parrafo en el body (p)
+12. Se creó la estructura básica de html dentro del archivo index.html (tipo de documento,head, body,entre otros )
+
+13. Se realizaron cambios en el titulo del documento (tittle) y se agrego un parrafo en el body (p)
+
+14. git add readme.md 
+
+    git add .gitignore
+
+    git add index.html  (añadir cambios a stage)
+
+    git commit -m "Cambios: nuevos archivos"  (Comprometiendo los cambios)
+
+    git push origin main  (subir los nuevos cambios)
+
+
+15.  git checkout -b HotFixParcial (crear nueva rama)
+
+16. Se agregó un fondo color negro al html (background-color con CSS)
 
