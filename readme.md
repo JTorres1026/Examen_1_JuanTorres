@@ -48,3 +48,7 @@ git add readme.md
 git add index.html
 
 git commit -m "Cambio del fondo"
+
+18. logs en una sola linea de los commits realizados 
+
+git log --oneline
