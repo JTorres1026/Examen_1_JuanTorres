@@ -8,4 +8,9 @@ Comandos utilizados en el ejercicio
 
 4. cd Examen_1_JuanTorres (moverse al nuevo directorio)
 
-5. 
+5. git status (ver cambios realizados)
+
+6. git add readme.md (agregar cambios a stage)
+
+7. git commit -m "Primer Parcial" (hacer commit incial)
+
